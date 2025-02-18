@@ -1,5 +1,5 @@
 # Basic Statistics
-
+Hi Abhinav, this is something I am about to commit now. 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
 This implementation is intended to be used in software engineering courses as
 a subject software system.
